@@ -1,0 +1,20 @@
+name: india_validators
+description: >-
+  Validate, parse and format Indian identifiers: PAN, GSTIN (with checksum),
+  Aadhaar (Verhoeff), IFSC, UPI IDs, mobile numbers and PIN codes.
+version: 0.1.0
+repository: https://github.com/ChandraChaan/india_validators
+issue_tracker: https://github.com/ChandraChaan/india_validators/issues
+topics:
+  - validation
+  - india
+  - forms
+  - fintech
+  - payments
+
+environment:
+  sdk: ^3.5.0
+
+dev_dependencies:
+  lints: ">=5.0.0 <7.0.0"
+  test: ^1.25.0
