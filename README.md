@@ -1,6 +1,8 @@
 # india_validators
 
 [![pub package](https://img.shields.io/pub/v/india_validators.svg)](https://pub.dev/packages/india_validators)
+[![pub points](https://img.shields.io/pub/points/india_validators)](https://pub.dev/packages/india_validators/score)
+[![likes](https://img.shields.io/pub/likes/india_validators)](https://pub.dev/packages/india_validators/score)
 [![CI](https://github.com/ChandraChaan/india_validators/actions/workflows/ci.yml/badge.svg)](https://github.com/ChandraChaan/india_validators/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
